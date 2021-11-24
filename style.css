@@ -1,0 +1,140 @@
+.background{
+    background-image: url(./pexels-photo-129731.jpeg);
+    background-size: 100%;
+
+}
+.zero{
+    padding: 0%;
+    margin: 0%;
+    border: 7px solid #666600;
+    width: 100%;
+    height: 100%;
+
+}
+.container{
+    height: 230px;
+    display: flex;
+    font-size: 35px;
+    font-style: italic;
+}
+.first{
+    border: 10px solid red;
+    margin: 20px;
+    border-radius: 45px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    }
+.left{
+    padding: 10px 10px 30px;
+    height: 80px;
+    width: 700px;
+    text-align: center;
+
+}
+.middle{
+    margin-top: 29px;
+    margin-left: -150px;
+
+    text-align: center;
+    padding: 20px 20px 5px 200px;
+    height: 25px;
+    width: 400px;
+    font-size: 20px;
+
+
+
+}
+.right{
+    
+    line-height: 50px;
+
+    margin-right: 5px;
+    padding: 5px 60px;
+    font-size: 20px;
+    width: 350px;
+    text-align: center;
+}
+.flex-container{
+  width: 99.3%;
+  display: flex;
+  height: 8\600px;
+    
+}
+.third{
+  text-align: center;
+  margin-top: 300px;
+  margin-left: 50px;
+  width: 40%
+}
+.twelve{
+    font-weight: bolder;
+    padding: 70px 0px;
+    background-color: grey;
+    border: 5px solid green;
+    border-radius: 50%;
+    width: 350px;
+    height: 200px;
+}
+.thirds{
+  font-weight: bolder;
+  
+  background-color: grey;
+  border: 5px solid rgb(1, 32, 1);
+  border-radius: 50%;
+  width: 350px;
+  height: 200px;
+}
+.fourth{
+  background-color: white;
+  border: 15px dashed red;
+  margin-left: 50px;
+  width: 500px;
+  height: 700px;
+}
+label{
+    color: red;
+    font-size: 15px;
+    justify-content: center;
+}
+.eleven{
+    color: red;
+}
+.menu{
+    border-bottom: 3px outset rgb(51, 49, 49);
+    height: 150px;
+    text-align: center;
+}
+.menu-text{
+    border: 10px solid red;
+    border-radius: 45px;
+    background-color: black;
+    color: white;
+    font-style: italic;
+    width: 600px;
+    font-size: 50px;
+  
+   margin: 30px 350px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+}
+.flex-item{
+  padding: 30px;
+  background-color: cyan;
+  border: 2px solid rgb(2, 29, 2);
+  width: 200px;
+  font-weight: bolder;
+  color: rgb(43, 7, 77);
+  margin: 30px 30px 0px 30px;
+  border-radius: 20px;
+  height: 180px;
+}
+
+
+
